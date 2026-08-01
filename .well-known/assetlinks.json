@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.spidermango.twa",
+    "sha256_cert_fingerprints": [
+      "29:88:FA:7E:8D:2A:7D:11:F0:BA:13:9C:B6:DD:B8:FC:C6:8F:27:02:79:31:AB:C4:2E:FF:C9:A9:18:53:FA:B2"
+    ]
+  }
+}]
